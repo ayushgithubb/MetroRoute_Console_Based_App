@@ -1,10 +1,10 @@
 # Project Title: Console-Based MetroApp using C++
 
 
-Description:
+=> Description:
 The Metro-App is a Java program designed to provide users with information about the Delhi Metro system. It allows users to input their source and destination metro stations and then displays the shortest route between the two stations, along with the corresponding fare. The program utilizes graph and heap data structures, as well as various algorithms, to achieve this functionality.
 
-Functionality:
+=> Functionality:
 
 User Input: The program takes user input for the source and destination metro stations in the Delhi Metro system.
 
@@ -20,7 +20,7 @@ Route Display: The program displays the metro route that the user should take to
 
 Metro Map: The application provides a metro map to aid commuters in navigating the metro system more effectively.
 
-Implementation:
+=> Implementation:
 The Metro-App is implemented using Java programming language. It utilizes the following key components and algorithms:
 
 Graph Data Structure: The stations are represented as nodes in the graph, and the connections between stations are represented as edges.
@@ -33,7 +33,7 @@ Breadth-First Search (BFS): BFS is used to explore neighboring stations for path
 
 Depth-First Search (DFS): DFS can be utilized to traverse alternative paths in the metro network.
 
-Requirements:
+=> Requirements:
 Dijkstras Algorithm => https://www.geeksforgeeks.org/c-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/
 
 Depth-First Search => https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
